@@ -123,7 +123,7 @@ Create `.env`
 
 ```env
 PORT=5000
-GITHUB_TOKEN=your_github_token
+GITHUB_TOKEN=YOUR_TOKEN
 ```
 
 ---
@@ -139,8 +139,25 @@ npm run dev
 Create `.env`
 
 ```env
-VITE_API_URL=http://localhost:5000/api
+VITE_API_URL=https://github-profile-explorer-txm5.onrender.com
 ```
+
+---
+
+## Screenshots
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+### User Profile
+
+![Profile](screenshots/profile.png)
+
+### Repository Listing
+
+![Repositories](screenshots/repositories.png)
+
 
 
 ---
@@ -161,3 +178,4 @@ VITE_API_URL=http://localhost:5000/api
 Kartik Bisht
 
 Built as a Full Stack Developer Recruitment Assignment.
+
